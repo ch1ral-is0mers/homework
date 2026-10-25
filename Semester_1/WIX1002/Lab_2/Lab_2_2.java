@@ -1,3 +1,7 @@
+//WIX1002
+//Lab 2
+//Tang Jizhi
+//25007562
 public class Lab_2_2 {
     public static void main(String[] args) {
         double matric = 25007562;
