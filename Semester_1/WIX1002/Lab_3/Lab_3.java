@@ -6,7 +6,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class Lab3_All {
+public class Lab_3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         Random rand = new Random();
