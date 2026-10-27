@@ -3,7 +3,7 @@
 //Tang Jizhi
 //25007562
 
-public class Tutorial3 {
+public class Tutorial_3 {
     public static void main(String[] args) {
         //Q1
         if (3 * 8 == 27) {
